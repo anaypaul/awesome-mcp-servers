@@ -152,6 +152,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Automated extraction, transformation, and analysis of information from documents to make their content usable by software systems.
 
 - <img src="https://avatars.githubusercontent.com/u/166614754?s=200&v=4" height="14"/> [Adeu](https://github.com/dealfluence/adeu) - Automated DOCX Redlining Engine and "Virtual DOM" for Microsoft Word. Enables agents to read, diff, edit, and negotiate contracts locally or via live COM interop.
+- <img src="https://cdn.simpleicons.org/googledocs/4285F4" height="14"/> [Google Docs](https://github.com/anaypaul/google-doc-claude) - Read, write, and add true inline/anchored comments to Google Docs from Claude (anchored comments no public Google API can create, via Playwright browser automation).
 
 
 <br />
